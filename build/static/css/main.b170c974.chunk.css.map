@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,OACI,aAAc,CACd,cAAe,CACf,eACJ","file":"main.b170c974.chunk.css","sourcesContent":[".hello {\n    color: #60a530;\n    font-size: 48px;\n    font-weight: bold;\n}"]}
